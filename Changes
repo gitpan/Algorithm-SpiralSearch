@@ -1,0 +1,8 @@
+Revision history for Perl extension Algorithm::SpiralSearch.
+
+0.01  Wed Apr 19 19:32:04 2006
+	- original version; created by h2xs 1.23 with options
+		-XA -n Algorithm::SpiralSearch
+
+1.00  Wed Apr 26 16:30:01 2006
+	- Added support for boundry conditions
