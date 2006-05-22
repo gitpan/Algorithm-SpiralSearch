@@ -1,5 +1,5 @@
-Algorithm-SpiralSearch version 1.00
-===================================
+Algorithm-SpiralSearch version 1.1
+==================================
 
 INSTALLATION
 
@@ -12,17 +12,12 @@ To install this module type the following:
 
 DEPENDENCIES
 
-Requires Math::Gradient.
-
+Math::Gradient
 
 COPYRIGHT AND LICENCE
-
-Put the correct copyright and licence information here.
 
 Copyright (C) 2006 by Sean Mostafavi
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.5 or,
 at your option, any later version of Perl 5 you may have available.
-
-

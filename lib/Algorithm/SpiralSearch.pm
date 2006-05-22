@@ -20,7 +20,7 @@ our @EXPORT = qw(
 	spiral_search	
 );
 
-our $VERSION = '1.00';
+our $VERSION = '1.10';
 
 sub spiral_search {
 	my ($lbx, $ubx, $lby, $uby, $iters, $f, $max_or_min) = @_;
